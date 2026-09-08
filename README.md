@@ -11,13 +11,13 @@ Popular clients that fit these criteria include:
 - Windsurf
 
 ```bash
-npx skills@latest add @googlecolab/colab-mcp --skill Colab-skill
+npx skills@latest add googlecolab/colab-mcp --skill Colab-skill
 ```
 
 or 
 
 ```bash
-npx skills@latest add @ak495867/colab-mcp --skill Colab-skill
+npx skills@latest add ak495867/colab-mcp --skill Colab-skill
 ```
 
 
