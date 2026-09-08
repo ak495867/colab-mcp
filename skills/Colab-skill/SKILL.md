@@ -1,5 +1,5 @@
 ---
-name: colab-integration
+name: Colab-skill
 version: 1.0.0
 author: AI Assistant
 description: >
